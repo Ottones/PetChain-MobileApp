@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1141-mobile-record-partial-or-declined-medication",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1141-mobile-record-partial-or-declined-medication": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1141-mobile-record-partial-or-declined-medication",
+    "origin"
+  ]
+}
